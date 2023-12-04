@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140472312058",
+    "project_id": "dealin-e66bf",
+    "storage_bucket": "dealin-e66bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140472312058:android:d34c22af9fb46537e7a943",
+        "android_client_info": {
+          "package_name": "com.dealin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJFHtDPULaiLI4e3cL3-iNg3dj2FcZmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140472312058:android:e945f30469dac097e7a943",
+        "android_client_info": {
+          "package_name": "com.dealin.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJFHtDPULaiLI4e3cL3-iNg3dj2FcZmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

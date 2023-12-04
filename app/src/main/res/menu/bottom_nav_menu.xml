@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inventory"
+        android:title="Properties"
+        android:icon="@mipmap/ic_launcher" />
+    <item
+        android:id="@+id/timeline"
+        android:title="Timeline"
+        android:icon="@mipmap/ic_launcher" />
+    <item
+        android:id="@+id/closingForm"
+        android:title="" />
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        android:icon="@mipmap/ic_launcher" />
+    <item
+        android:id="@+id/earning"
+        android:title="Earning"
+        android:icon="@mipmap/ic_launcher" />
+</menu>
